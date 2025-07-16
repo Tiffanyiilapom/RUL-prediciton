@@ -7,7 +7,7 @@ Predict the Remaining Useful Life (RUL) of Each Type of Engines
 
 ## Dataset Description
 - id : type of machines
-- cycle : the time unit
+- cycle : the time unit 
 - setting 1 ~ 3 : settings of machines
 - s1 ~ s21 : sensor readings for each cycle
 - RUL :  Remaining Useful Life
